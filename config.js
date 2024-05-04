@@ -2,13 +2,10 @@ import { watchFile, unwatchFile } from 'fs'
 import chalk from 'chalk' 
 import { fileURLToPath } from 'url' 
 
-global.owner = [
-  ['59172945992', 'FG98', true],
-  ['5491168352204']
-] //Numeros de owner 
+global.owner = ['51978194933', '【𝐒𝐘𝐒𝐒𝐎𝐋𝐔𝐓𝐈𝐎𝐍𝐒 ©™】', true] //Numeros de owner 
 
-global.mods = [''] 
-global.prems = ['50489079501', '573143917092']
+global.mods = ['51978194933'] 
+global.prems = ['51978194933']
 global.APIs = { // API Prefix
   // name: 'https://website' 
   nrtm: 'https://fg-nrtm.ddns.net',
@@ -20,11 +17,11 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = 'Senna┃ᴮᴼᵀ' 
-global.author = '@fg98' 
+global.packname = '【𝐒𝐘𝐒𝐒𝐎𝐋𝐔𝐓𝐈𝐎𝐍𝐒 ©™】' 
+global.author = '【𝐒𝐘𝐒𝐒𝐎𝐋𝐔𝐓𝐈𝐎𝐍𝐒 ©™】' 
 
 //--info FG
-global.botName = 'Senna'
+global.botName = '【𝐒𝐘𝐒𝐒𝐎𝐋𝐔𝐓𝐈𝐎𝐍𝐒 ©™】'
 global.fgig = 'https://instagram.com/fg98_ff' 
 global.fgsc = 'https://github.com/FG98F/dylux-fg' 
 global.fgyt = 'https://youtube.com/fg98f'
