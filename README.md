@@ -52,7 +52,7 @@ Multi-idioma para cada usuario, lo que significa que el usuario puede elegir el 
 ***
 
 #### Deploy to Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/FG98F/senna-bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Maker123PE/senna-bot)
 
 #### Heroku Buildpack
 | BuildPack | LINK |
