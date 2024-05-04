@@ -1,0 +1,60 @@
+{
+  "users": {
+    "51978194933@s.whatsapp.net": {
+      "exp": 0,
+      "coin": 0,
+      "diamond": 20,
+      "bank": 0,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "𝐒𝐘𝐒𝕊𝕠𝕝𝕦𝕥𝕚𝕠𝕟𝕤",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "warn": 0,
+      "level": 0,
+      "role": "Novato",
+      "autolevelup": false,
+      "chatbot": false,
+      "genero": "Indeciso",
+      "language": "es",
+      "prem": false,
+      "premiumTime": 0
+    }
+  },
+  "chats": {
+    "51978194933@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": false,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": true,
+      "antiLink": false,
+      "viewonce": false,
+      "useDocument": true,
+      "captcha": false,
+      "antiBotClone": false,
+      "nsfw": false,
+      "expired": 0,
+      "rules": ""
+    }
+  },
+  "stats": {},
+  "msgs": {},
+  "sticker": {},
+  "settings": {
+    "51978194933@s.whatsapp.net": {
+      "self": false,
+      "autoread": false,
+      "restrict": false,
+      "solopv": false,
+      "sologp": false,
+      "status": 0
+    }
+  }
+}
